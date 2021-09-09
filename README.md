@@ -4,7 +4,7 @@
 1. 是一个菜腿闪电粉丝建立的
 1. 闪电作为知名的漆水厂，很难搞清楚它到底有多少涂装，你可以在这里找到相当多的
 1. 你可以按照系列和型号找到你想要的自行车
-1. 很期待你通过创建issue来提交新的涂装
+1. 欢迎通过创建issue来提交新的涂装
 2. 
 3. A stock of Specialized road bike frameset
 4. Built by a Specialized fan
